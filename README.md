@@ -1,8 +1,12 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## Configuración Android
+
+Antes de ejecutar el proyecto, crea un archivo `android/local.properties` con la ruta donde se encuentra instalado el SDK(normalmente:sdk.dir=C:\\Users\\USERNAME\\AppData\\Local\\Android\\Sdk )
+
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
